@@ -1,0 +1,27 @@
+.bp{
+	padding-bottom: 150px;
+}
+.s_h3{
+	display: none;
+	background-color: yellow;
+}
+
+.red,.red2, .red3, .red4{
+	width: 150px;
+	height: 150px;
+	background-color: red;
+}
+.blue,.blue2, .blue3{
+	width: 150px;
+	height: 150px;
+	background-color: blue;
+}
+.green, .green2, .green3{
+	width: 150px;
+	height: 150px;
+	background-color: green;
+}
+.slidePannel{
+	padding: 50px;
+	background-color: #c3c3c3;
+}
